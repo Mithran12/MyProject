@@ -1,1 +1,5 @@
-This is a line from main branch.
+<<<<<<< HINTHU
+This is a line from main Cartoons.
+=======
+This is a line from Comics.
+>>>>>>> MITHRAN 
